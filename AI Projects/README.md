@@ -19,3 +19,7 @@
 🔹 Disease-Prediction-and-Health-Recommendations-Using-Machine-Learning-and-AI
 - 🔗 https://github.com/AfinuMansoor/Disease-Prediction-and-Health-Recommendations-Using-Machine-Learning-and-AI.git
 - 🎯 predict and manage three prevalent diseases and provide personalized health recommendations.
+
+🔹 🤖 AI Order Automation Chatbot
+- 🔗 https://github.com/AfinuMansoor/-AI-Order-Automation-Chatbot.git
+- 💬 Chatbot built with Streamlit and Gemini API to simulate e-commerce order processing.
